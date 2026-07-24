@@ -243,13 +243,15 @@ Building an AI agent implementation studio for small businesses — ranging from
 ---
 
 ## 📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats-nine-phi-32.vercel.app/api?username=E-techgod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/> 
+<div align="center"> <img src="https://github-readme-stats-nine-phi-32.vercel.app/api?username=E-techgod&show_icons=true&cache_bust=1" width="49%"/>
+
 <img src="https://github-readme-stats-nine-phi-32.vercel.app/api/top-langs/?username=E-techgod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/> </div> 
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=E-techgod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 </div>
 
+https://github-readme-stats-nine-phi-32.vercel.app/api?username=E-techgod&show_icons=true&cache_bust=1
 ---
 
 ## 📈 Contribution Activity
