@@ -261,7 +261,7 @@ Building an AI agent implementation studio for small businesses — ranging from
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<div align="center" style="background-color: black; padding: 20px;">
 <img src="https://raw.githubusercontent.com/E-techgod/E-techgod/output/github-contribution-grid-snake.svg" width="90%"/>
 </div>
 
