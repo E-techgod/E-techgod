@@ -251,7 +251,6 @@ Building an AI agent implementation studio for small businesses — ranging from
 <img src="https://streak-stats.demolab.com/?user=E-techgod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 </div>
 
-https://github-readme-stats-nine-phi-32.vercel.app/api?username=E-techgod&show_icons=true&cache_bust=1
 ---
 
 ## 📈 Contribution Activity
