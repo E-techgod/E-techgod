@@ -269,7 +269,7 @@ Building an AI agent implementation studio for small businesses — ranging from
 
 ```yaml
 currently:
-  learning: ["Agentic AI systems", "Production RAG architectures", "GenAI"]
+  learning: ["Agentic AI systems", "Production RAG architectures", "GenAI", "System Design"]
   building: ["Muuka — AI agent implementation studio"]
   exploring: ["Multi-agent orchestration", "LLM evaluation frameworks"]
   open_to: ["AI Engineer roles", "Data Scientist roles", "Collaborations"]
