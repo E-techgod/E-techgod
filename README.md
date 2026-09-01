@@ -273,7 +273,7 @@ Building an AI software company focused on intelligent, action-oriented systems 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=E-techgod&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=E-techgod&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff" width="90%"/>
 </div>
 
 ---
