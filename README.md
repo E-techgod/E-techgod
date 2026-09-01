@@ -245,8 +245,8 @@ Building an AI software company focused on intelligent, action-oriented systems 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=E-techgod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-techgod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180"/>
+  <img src="https://github-readme-stats-nine-phi-32.vercel.app/api?username=E-techgod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true&cache_bust=1" height="180"/>
+  <img src="https://github-readme-stats-nine-phi-32.vercel.app/api/top-langs/?username=E-techgod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&cache_bust=1" height="180"/>
 </div>
 
 <br/>
