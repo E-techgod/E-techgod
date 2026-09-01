@@ -39,7 +39,7 @@ Outside of ML engineering, I'm building **Prokalo**, an AI software company crea
 
 ```yaml
 open_to:
-  roles: ["AI Engineer", "Data Scientist", "ML Engineer"]
+  roles: ["AI Engineer", "ML Engineer", "Data Scientist"]
   locations: ["Houston, TX", "Remote"]
   work_authorization: "OPT Active — TN Visa Eligible (No H-1B Sponsorship Required)"
 ```
