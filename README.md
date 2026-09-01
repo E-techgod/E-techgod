@@ -31,17 +31,17 @@
 
 ## 🧠 About Me
 
-I'm a recent Computer Science graduate from the **University of Houston** (Magna Cum Laude), concentrated in **Data Science & Machine Learning** with a minor in Mathematics. I build end-to-end ML and GenAI systems, from data pipelines and model training through deployment on production-style REST APIs and interactive dashboards.
+I'm a recent Computer Science graduate from the **University of Houston** (Magna Cum Laude), concentrated in **Data Science & Machine Learning** with a minor in Mathematics. I build end-to-end ML and GenAI systems — from data pipelines and model training through deployment on production-style REST APIs and interactive dashboards.
 
-My work spans **deep learning** (CNN, LSTM, GRU, TCN), **classical ML** (Random Forest, XGBoost), **NLP / GenAI** (RAG pipelines, LLM APIs, semantic search), and **model explainability** (SHAP, saliency mapping), with a consistent focus on turning research-grade models into usable, production-facing tools.
+My work spans **deep learning** (CNN, LSTM, GRU, TCN), **classical ML** (Random Forest, XGBoost), **NLP / GenAI** (RAG pipelines, LLM APIs, semantic search), and **model explainability** (SHAP, saliency mapping) — with a consistent focus on turning research-grade models into usable, production-facing tools.
 
 Outside of ML engineering, I'm building **Prokalo**, an AI software company creating intelligent, action-oriented systems for the insurance industry, from workflow automation and AI agents to custom internal platforms.
 
 ```yaml
 open_to:
   roles: ["AI Engineer", "Data Scientist", "ML Engineer"]
-  locations: ["Austin, TX", "Remote"]
-  work_authorization: "OPT Active - TN Visa Eligible (No H-1B Sponsorship Required)"
+  locations: ["Houston, TX", "Remote"]
+  work_authorization: "OPT Active — TN Visa Eligible (No H-1B Sponsorship Required)"
 ```
 
 ---
@@ -49,27 +49,19 @@ open_to:
 ## 🛠️ Tech Stack
 
 **Languages**
-
 <br/>
-
 <img src="https://skillicons.dev/icons?i=python,r,cpp,java,latex" />
 
 **Frontend**
-
 <br/>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" />
 
 **Backend & Databases**
-
 <br/>
-
 <img src="https://skillicons.dev/icons?i=flask,nodejs,supabase,sqlite,postgres" />
 
 **Cloud, DevOps & Tooling**
-
 <br/>
-
 <img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,linux,vscode" />
 
 ---
@@ -78,7 +70,7 @@ open_to:
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Deep Learning | ⭐⭐⭐⭐☆ | CNN, LSTM, GRU, TCN architectures, PyTorch, TensorFlow |
+| Deep Learning | ⭐⭐⭐⭐☆ | CNN, LSTM, GRU, TCN architectures — PyTorch, TensorFlow |
 | Classical ML | ⭐⭐⭐⭐⭐ | Random Forest, XGBoost, scikit-learn, class-imbalance handling |
 | NLP & GenAI | ⭐⭐⭐⭐☆ | RAG pipelines, LLM APIs (Gemini), prompt engineering, SBERT semantic search |
 | Explainability | ⭐⭐⭐⭐☆ | SHAP, saliency maps, per-sample error analysis |
@@ -91,12 +83,11 @@ open_to:
 
 <details>
 <summary><b>🧠 EEG Seizure Detection</b></summary>
-
 <br/>
 
 Deep learning system for detecting epileptic seizures from pediatric EEG recordings, comparing four architectures under extreme class imbalance.
 
-|  |  |
+| | |
 |---|---|
 | **Stack** | PyTorch, Python, MNE, CHB-MIT Dataset |
 | **Scale** | 23-channel pediatric EEG recordings |
@@ -110,12 +101,11 @@ Trained and compared CNN, CNN+LSTM, CNN+GRU, and TCN architectures, addressing a
 
 <details>
 <summary><b>🕵️ Fraud Detection System</b></summary>
-
 <br/>
 
 Random Forest fraud classifier with a focus on precision/recall balance and full model interpretability.
 
-|  |  |
+| | |
 |---|---|
 | **Stack** | Python, scikit-learn, SHAP, pandas |
 | **Scale** | 108K-sample balanced holdout dataset |
@@ -129,12 +119,11 @@ Reduced false positives to 84 against 2,016 correctly identified fraud cases, ac
 
 <details>
 <summary><b>🔎 Amazon Review Opinion Search Engine</b></summary>
-
 <br/>
 
 Semantic search engine replacing keyword matching with SBERT-based dense retrieval.
 
-|  |  |
+| | |
 |---|---|
 | **Stack** | Python, SBERT, NLP, Flask |
 | **Scale** | 210K+ reviews, custom preprocessing pipeline |
@@ -148,12 +137,11 @@ Demonstrated that cleaner, curated data outperformed larger unfiltered datasets 
 
 <details>
 <summary><b>🎾 Tennis RAG Coach</b></summary>
-
 <br/>
 
 Retrieval-augmented generation app answering beginner tennis questions from uploaded PDFs and text files.
 
-|  |  |
+| | |
 |---|---|
 | **Stack** | Python, Streamlit, Gemini API, TF-IDF, PyPDF |
 | **Retrieval** | TF-IDF + cosine similarity ranking |
@@ -167,15 +155,14 @@ Integrated the Gemini API to generate grounded, source-aware responses, clearly 
 
 <details>
 <summary><b>🏆 Tennis Match Outcome Predictor</b></summary>
-
 <br/>
 
 Match outcome prediction on two decades of ATP tour data, deployed as an interactive app.
 
-|  |  |
+| | |
 |---|---|
 | **Stack** | Python, R, scikit-learn, Shiny |
-| **Scale** | ATP historical data, 2003-2024 |
+| **Scale** | ATP historical data, 2003–2024 |
 | **Performance** | 63.7% Accuracy · 0.696 ROC-AUC |
 | **Deployment** | Interactive Shiny app for real-time predictions |
 | **Repository** | [View on GitHub →](https://github.com/E-techgod/tennis-winner-predictor) |
@@ -186,12 +173,11 @@ Engineered domain-specific features including ranking differences, surface type,
 
 <details>
 <summary><b>🏎️ F1 Driver Recognition</b></summary>
-
 <br/>
 
 Computer vision pipeline for recognizing F1 drivers from image input.
 
-|  |  |
+| | |
 |---|---|
 | **Stack** | Python, OpenCV, Haar Cascades, KNN, Flask |
 | **Pipeline** | Face detection → feature extraction → KNN classification |
@@ -202,12 +188,11 @@ Computer vision pipeline for recognizing F1 drivers from image input.
 
 <details>
 <summary><b>⏱️ Mission Zero</b></summary>
-
 <br/>
 
 Full-stack student productivity app combining a Pomodoro workflow with gamification.
 
-|  |  |
+| | |
 |---|---|
 | **Stack** | Next.js 15, Supabase, Framer Motion |
 | **Features** | Pomodoro timer, gamification system, animated UI |
@@ -219,9 +204,8 @@ Full-stack student productivity app combining a Pomodoro workflow with gamificat
 
 ## 💼 Experience
 
-### Independent ML / AI Engineer - Personal Projects & Applied Research
-
-**2024-2025**
+### Independent ML / AI Engineer — Personal Projects & Applied Research
+**2024 – 2025**
 
 Designed and deployed end-to-end ML and GenAI systems independently, from data pipeline construction through production API deployment.
 
@@ -232,40 +216,37 @@ Designed and deployed end-to-end ML and GenAI systems independently, from data p
 
 `Python` `PyTorch` `TensorFlow` `Flask` `Streamlit` `SHAP` `RAG`
 
-### Founder - Prokalo
+---
 
-**2026-Present**
+### Founder — Prokalo
+**2026 – Present**
 
 Building an AI software company focused on intelligent, action-oriented systems for the insurance industry, combining workflow automation, AI agents, integrations, and custom internal platforms.
 
-*"Built to Act."*
+*"Built to Act"*
 
-`Insurtech` `AI Agents` `Workflow Automation` `Product Strategy`
+`AI Agents` `Product Strategy` `Go-To-Market` `Insurtech` `Workflow Automation` `Orchestration`
 
 ---
 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=E-techgod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
-</div>
 
 | Recognition | Details |
 |---|---|
 | Magna Cum Laude | University of Houston, B.S. Computer Science, May 2026 |
 | Dean's List | Multiple semesters, University of Houston |
 
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats-nine-phi-32.vercel.app/api?username=E-techgod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" height="195"/> <img src="https://github-readme-stats-nine-phi-32.vercel.app/api/top-langs/?username=E-techgod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="195"/> </div> 
 
 <div align="center">
-  <img src="https://github-readme-stats-nine-phi-32.vercel.app/api?username=E-techgod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" height="195"/>
-  <img src="https://github-readme-stats-nine-phi-32.vercel.app/api/top-langs/?username=E-techgod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="195"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=E-techgod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=E-techgod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 </div>
 
 ---
@@ -280,9 +261,7 @@ Building an AI software company focused on intelligent, action-oriented systems 
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/E-techgod/E-techgod/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</div>
+<div align="center"> <img src="https://raw.githubusercontent.com/E-techgod/E-techgod/output/github-contribution-grid-snake-dark.svg" width="90%"/> </div>
 
 ---
 
@@ -290,8 +269,8 @@ Building an AI software company focused on intelligent, action-oriented systems 
 
 ```yaml
 currently:
-  learning: ["Agentic AI systems", "Production RAG architectures", "GenAI", "System Design"]
-  building: ["Prokalo - intelligent AI systems for insurance"]
+  learning: ["Agentic AI systems", "Production RAG architectures", "GenAI"]
+  building: ["Prokalo - Intelligent AI systems for insurance"]
   exploring: ["Multi-agent orchestration", "LLM evaluation frameworks"]
   open_to: ["AI Engineer roles", "Data Scientist roles", "Collaborations"]
 ```
