@@ -243,18 +243,16 @@ Building an AI software company focused on intelligent, action-oriented systems 
 ---
 
 ## 📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats-nine-phi-32.vercel.app/api?username=E-techgod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" height="195"/> <img src="https://github-readme-stats-nine-phi-32.vercel.app/api/top-langs/?username=E-techgod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="195"/> </div> 
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=E-techgod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=E-techgod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-techgod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180"/>
 </div>
 
----
-
-## 📈 Contribution Activity
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=E-techgod&theme=tokyo-night&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakNum=ffffff" width="90%"/>
+  <img src="https://streak-stats.demolab.com/?user=E-techgod&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 </div>
 
 ---
